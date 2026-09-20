@@ -1,0 +1,4 @@
+employee_id,first_name,last_name,email,phone,department,job_title,employment_type,hire_date,base_salary,bonus,created_on,updated_on
+1001,Bhavish,C,bhavish.c@gmail.com,9499999999,Sales,Manager,Full-time,2026-09-19,500000.00,300000.00,2026-09-19,2026-09-19
+1002,Ram,C,ram.c@gmail.com,9499999999,Engineering,Developer,Full-time,2026-09-19,350000.00,150000.00,2026-09-19,2026-09-19
+1003,Advik,C,advik.c@gmail.com,9499999999,Finance,CFO,Full-time,2026-09-19,1000000.00,500000.00,2026-09-19,2026-09-19
